@@ -1,0 +1,16 @@
+title: |-
+    Transfer Parameter
+    Value
+tooltip: |-
+    Transfer values from one parameter to another.
+    Supported categories:
+    1. Cable Trays
+    2. Ducts
+    3. Cable Tray Fittings (Busducts)
+    4. Conduit
+    5. Pipes
+    6. Pipe Accessories
+    7. Duct Accessories
+    8. Mechanical Equipment
+    9. Air Terminals
+author: Tuah Hamid - AECOM

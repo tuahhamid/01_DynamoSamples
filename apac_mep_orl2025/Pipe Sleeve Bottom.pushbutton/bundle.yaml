@@ -1,0 +1,8 @@
+title: |-
+    Pipe Sleeve
+    Bottom
+tooltip: |
+    Generate pipe sleeve bottom value referenced from the project datum.
+    Category supported: Mechanical Equipment
+    Formula: (Level Elevation + Element Referenced Level) - Outer Diameter/2
+author: Tuah Hamid - AECOM
